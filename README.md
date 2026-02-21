@@ -11,7 +11,7 @@ It is based on the [Tiny Tapeout breakout](https://github.com/TinyTapeout/breako
 
 The PCB was designed with KiCad version 9.0.
 
-Check out the project in your browser using KiCanvas: [Greyhound Breakout PCB](https://kicanvas.org/?github=https://github.com/mole99/greyhound-main-pcb/blob/main/greyhound-main-pcb.kicad_pro)
+Check out the project in your browser using KiCanvas: [Greyhound Breakout PCB](https://kicanvas.org/?github=https://github.com/mole99/greyhound-breakout-pcb/blob/main/breakout-qfn.kicad_pro)
 
 # License
 
